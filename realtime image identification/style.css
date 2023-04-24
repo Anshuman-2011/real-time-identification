@@ -1,0 +1,42 @@
+body
+{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,0,0,1) 50%, rgba(252,176,69,1) 100%);
+}
+.anchor_botton
+{
+    font-size: 20px !important;
+    width: 400px !important;
+    border-radius: 30px !important;
+    background-color: white;
+    color: black;
+    margin-bottom: 1rem;
+    display: block;
+}
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 40px;
+    align-content: center;
+}
+
+.back
+{
+    font-size: 23px !important;
+    width: 100% !important;
+    background-color: whitesmoke;
+    color: black;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: center;
+}
+.status
+{
+    font-size: 25px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
